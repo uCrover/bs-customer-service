@@ -1,0 +1,8 @@
+server:
+  port: 8086
+spring:
+  application:
+    name: customer-service
+  data:
+    mongodb:
+      uri: mongodb+srv://crover:bdCo-v95.@cluster0.nawut.mongodb.net/Customer_Service?retryWrites=true&w=majority
